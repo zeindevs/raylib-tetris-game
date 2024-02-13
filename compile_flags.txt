@@ -1,0 +1,4 @@
+-std=c++17
+-I.
+-ID:/Lib/raylib/src
+-ID:/Lib/rres-1.2.0/src
